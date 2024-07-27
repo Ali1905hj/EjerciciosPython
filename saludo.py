@@ -1,2 +1,2 @@
-nombre = "Brandon Ali"
-print("Hola", nombre, "Bienvenidos al curso de python")
+nombre = input("¿Cual es tu nombre?")
+print("Hola", nombre, "Bienvenido al curso de python")
