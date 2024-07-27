@@ -1,0 +1,8 @@
+a = 12.5
+b = 6.8
+
+print ("el valor de a es de: ", a)
+print ("el tipo de dato de a es", type(a))
+
+print ("el valor de a es de: ", b)
+print ("el tipo de dato de a es", type(b))
